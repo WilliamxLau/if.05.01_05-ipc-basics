@@ -5,7 +5,7 @@
 The goal of this week's assignment is to make you familiar with basic terms and questions concerning IPC.
 
 ## Required Tasks
-Answer the following questions
+Answer the following questions in a md file which you add to this repository.
 
 1. **Race Condition**
 Describe with your own words: What is a race condition?
